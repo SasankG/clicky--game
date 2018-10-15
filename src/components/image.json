@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Argentina",
+        "url": "./images/flag-of-Argentina.png"
+    },
+    {
+        "name": "Australia",
+        "url": "./images/flag-of-Australia.png"
+    },
+    {
+        "name": "Austria",
+        "url": "./images/flag-of-Austria.png"
+    },
+    {
+        "name": "Cambodia",
+        "url": "./images/flag-of-Cambodia.png"
+    },
+    {
+        "name": "Canada",
+        "url": "./images/flag-of-Canada.png"
+    },
+    {
+        "name": "North Korea",
+        "url": "./images/flag-of-Korea-North.png"
+    },
+    {
+        "name": "Malaysia",
+        "url": "./images/flag-of-Malaysia.png"
+    },
+    {
+        "name": "Mexico",
+        "url": "./images/flag-of-Mexico.png"
+    },
+    {
+        "name": "Micronesia",
+        "url": "./images/flag-of-Micronesia.png"
+    },
+    {
+        "name": "Nepal",
+        "url": "./images/flag-of-Nepal.png"
+    },
+    {
+        "name": "New Zealand",
+        "url": "./images/flag-of-New-Zealand.png"
+    },
+    {
+        "name": "United States",
+        "url": "./images/flag-of-United-States-of-America.png"
+    }
+]
